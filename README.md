@@ -15,6 +15,34 @@ Building ideas into reality.
 
 
 https://github.com/user-attachments/assets/0d653925-d9e4-4014-bb14-9ac44c8a9c7f
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STUDENT-21262d?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPER-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CUC-30363d?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COLOMBIA-00C853?style=for-the-badge"/>
+
+<br>
+
+---
+
+### 💻 TECH STACK & TOOLS
+
+<sub>TECHNOLOGIES I'M LEARNING AND EXPLORING</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+
+<br>
+
+---
+
+**BUILDING MY FUTURE WITH CODE. 🚀**
+
+</div>
+
 ## 👨‍💻 About Me
 
 Hi! I'm **Luis Siado**, a Software Development student from Colombia 🇨🇴.
